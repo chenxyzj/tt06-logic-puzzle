@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+4-bit Full-Adder with Carry
+Computes A1A0 + B1B0 + Cin = Cout0 S2S1S0
 
 ## How to test
 
-Explain how to use your project
+Set the inputs and check the outputs.
 
 ## External hardware
 
